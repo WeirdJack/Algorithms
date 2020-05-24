@@ -62,3 +62,10 @@ Sample Test Case 2
 Input = [2, 5, 9, 4, 10, 7, 8, 1, 11, 5] and H = [5, 2,1] Output = [1, 2, 4, 5, 5, 7, 8, 9, 10, 11]
 
 ```
+### instructions
+```
+1. Input array size and inputs
+
+2. Input steps(gaps) array size and its inputs as steps
+
+```
