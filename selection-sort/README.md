@@ -30,3 +30,21 @@ c. Use the implementation in part 2 to determine the median value of the input a
 You can assume that the values in the array are distinct. 
 If the array is of even size, then the median is the average of the two middle values is the array.
 ```
+
+### instructions
+
+```
+This program will ask the user for inputs
+
+1. Size of array
+
+2. Elements of the array
+
+It will sort an array using selection sort
+
+3. It will ask the user for entering the value of k
+
+It will produce a sorted array of length k with smallest elements
+
+4. It will produce the median of the sorted array of length k
+```
