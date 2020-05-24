@@ -1,0 +1,14 @@
+## Longest Common Subsequence Algorithm
+
+### problem-definition
+
+```
+Implement and test the longest common subsequence (LCS) problem. 
+For this problem, you are required to maintain a two dimensional arrays for storing the tables. 
+You need to output the LCS along with the length.
+```
+
+### instructions to compile
+```
+g++ -g lcs.cpp
+```
