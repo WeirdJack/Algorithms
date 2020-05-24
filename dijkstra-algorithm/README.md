@@ -1,9 +1,6 @@
----------------------------------------------
 ## Dijkstra Algorithm
----------------------------------------------
 
 ### problem-definition
----------------------------------------------
 
 ```
 Consider a graph of V vertices and E edges. One standard way to input a graph is to use an adjacency matrix. 
